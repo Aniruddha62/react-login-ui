@@ -4,15 +4,11 @@ This is a simple frontend project built using React that demonstrates how login 
 
 The focus of this project was to practice form handling and UI structuring.
 
----
-
 ## 🚀 Tech Stack
 
 - React
 - JavaScript
 - CSS
-
----
 
 ## ✨ Features
 
@@ -20,8 +16,6 @@ The focus of this project was to practice form handling and UI structuring.
 - Input validation
 - Clean UI layout
 - Reusable components
-
----
 
 ## 👨‍💻 Author
 
